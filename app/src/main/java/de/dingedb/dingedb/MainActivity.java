@@ -32,6 +32,7 @@ public class MainActivity extends AppCompatActivity {
         // as you specify a parent activity in AndroidManifest.xml.
         //Kais Kommentar
         // Tims Kommentar
+        // Michaels Kommi
         int id = item.getItemId();
 
         //noinspection SimplifiableIfStatement
